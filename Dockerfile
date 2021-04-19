@@ -7,7 +7,7 @@ RUN amber rebuild
 
 FROM registry.revolt.org/software/containers/apache2-base:no-masters
 
-COPY --from=build /src/public /var/www/liberate.org/public
+COPY --from=build /src/public /var/www/riseup.net/public
 COPY docker/conf /tmp/conf
 COPY docker/build.sh /tmp/build.sh
 
