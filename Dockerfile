@@ -5,7 +5,7 @@ ADD . /src
 WORKDIR /src/amber
 RUN amber rebuild
 
-FROM registry.revolt.org/software/containers/apache2-passenger:no-masters
+FROM registry.revolt.org/software/containers/apache2-base:no-masters
 
 COPY --from=build /src/public /var/www/riseup.net/public
 COPY docker/conf /tmp/conf

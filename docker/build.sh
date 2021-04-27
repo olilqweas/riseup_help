@@ -11,7 +11,7 @@
 BUILD_PACKAGES="rsync git"
 
 # Packages required to serve the website and run the services.
-PACKAGES="ruby bundler"
+PACKAGES=""
 
 APACHE_MODULES_ENABLE="
 	headers
@@ -19,7 +19,6 @@ APACHE_MODULES_ENABLE="
 	negotiation
 	proxy
 	proxy_http
-        passenger
 "
 
 # The default bitnami/minideb image defines an 'install_packages'
@@ -43,13 +42,8 @@ rsync -a /tmp/conf/ /etc/
 # Setup Apache.
 a2enmod -q ${APACHE_MODULES_ENABLE}
 
-git clone https://0xacab.org/liberate/bitaddressq.git /var/www/bitaddressq
-cd /var/www/bitaddressq
-/usr/bin/bundle install --deployment
-
 # Make sure that files are readable.
 chmod -R a+rX /var/www/riseup.net
-chmod -R a+rX /var/www/bitaddressq
 
 # Remove packages used for installation.
 apt-get remove -y --purge ${BUILD_PACKAGES}
