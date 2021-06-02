@@ -19,7 +19,6 @@ APACHE_MODULES_ENABLE="
 	negotiation
 	proxy
 	proxy_http
-        setenvif
 "
 
 # The default bitnami/minideb image defines an 'install_packages'
