@@ -1,4 +1,4 @@
-FROM debian@sha256:87ed8e3a7b251eef42c2e4251f95ae3c5f8c4c0a64900f19cc532d0a42aa7107 AS build
+FROM debian@sha256:fd4d028713fd05a1fb896412805daed82c4a0cc84331d8dad00cb596d7ce3e3a AS build
 RUN apt-get -q update && env DEBIAN_FRONTEND=noninteractive apt-get -qy install --no-install-recommends ruby ruby-dev build-essential zlib1g-dev git ca-certificates
 RUN gem install amber
 ADD . /src
