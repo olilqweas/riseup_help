@@ -61,11 +61,9 @@ Nous acceptons les transferts bancaires *seulement en Euros (EUR), aucune autre 
 
 	Nom du destinataire: Riseup Networks
 	IBAN: DE41 4306 0967 1126 8256 06
-    BIC: TRWIBEB1XXX
-    IBAN: BE46 9672 1075 8936
-    Address: Avenue Louise 54, Room S52
-             Bruxelles 1050
-             Belgique
+	BIC: GENODEM1GLS
+	Banque: GLS Bank
+	Pays: Allemagne
 
 ## Questions fréquentes (FAQ)
 
