@@ -1,6 +1,28 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base"
-  ]
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:base"
+    ],
+    "enabledManagers": [
+        "dockerfile",
+        "regex"
+    ],
+    "regexManagers": [
+        {
+            "fileMatch": ["^Dockerfile$"],
+            "matchStringsStrategy": "any",
+            "matchStrings": [
+                "FROM registry.revolt.org/software/containers/(?<depName>.*?):(?<currentValue>.*?)@(?<currentDigest>sha256:[a-f0-9]+)s"
+            ],
+            "datasourceTemplate": "docker"
+        }
+    ],
+    "packageRules": [
+        {
+            "datasources": ["docker"],
+            "labels": ["docker-update"],
+            "updateTypes": ["pin", "digest"],
+            "automerge": true
+        }
+    ]
 }
