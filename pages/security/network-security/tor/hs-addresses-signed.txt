@@ -16,45 +16,43 @@ soon as you can.
 riseup.net:         vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion (port 80)
 
 help.riseup.net:    vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion (port 80)
-                     
-imap.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (port 993)
-                                          
+
 lists.riseup.net:   7sbw6jufrirhyltzkslhcmkik4z7yrsmbpnptyritvz5nhbk35hncsqd.onion (port 80)
-                     
-mail.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 80, 465, 587)
+
+mail.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 25, 80, 110, 143, 465, 587, 993, 995)
+
+imap.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 143, 993)
+
+pop.riseup.net:     5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 110, 995)
+
+smtp.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 25, 465, 587)
 
 mx1.riseup.net:     aj3nsqqcksrrc5cye5etjsoewz6jrygpekzwoko3q6wyxjlb3dgasfid.onion (port 25)
-                     
+
 pad.riseup.net:     kfahv6wfkbezjyg4r6mlhpmieydbebr5vkok5r34ya464gqz6c44bnyd.onion (port 80)
-                     
-pop.riseup.net:     5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 995)
-                     
+
 share.riseup.net:   aco6injncogk3siaubyh5sterx7w5pocqdrm7mna7u4wuukscgnqpeid.onion (port 80)
 
-smtp.riseup.net:    5gdvpfoh6kb2iqbizb37lzk2ddzrwa47m6rpdueg2m656fovmbhoptqd.onion (ports 465, 587)
-                     
 account.riseup.net: 3xeiol2bnhrsqhcsaifwtnlqkylrerdspzua7bcjrh26qlrrrctfobid.onion (port 80)
-                     
+
 we.riseup.net:      zkdppoahhqu5ihjqd4qqvyfd2bm4wejrhjosim67t6yopl77jitg2nad.onion (port 443)
-                     
-xmpp.riseup.net:    jukrlvyhgguiedqswc5lehrag2fjunfktouuhi4wozxhb6heyzvshuyd.onion (ports 5222, 5269)
-                    
+
 0xacab.org          wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion (port 80)
 -----BEGIN PGP SIGNATURE-----
 
-iQKTBAEBCgB9FiEETgeRJo98Z+q+iPGwMEPitxOado4FAmDaIZdfFIAAAAAALgAo
+iQKTBAEBCgB9FiEETgeRJo98Z+q+iPGwMEPitxOado4FAmFVw/lfFIAAAAAALgAo
 aXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldDRF
 MDc5MTI2OEY3QzY3RUFCRTg4RjFCMDMwNDNFMkI3MTM5QTc2OEUACgkQMEPitxOa
-do6AtQ//U+B2p2+ZTBfMx4pWBDZqLBDZOy59i69+dG6j/XPj+YuNUfdYX2saSVMB
-A3b80GyODRsKT46rBVMyGT9j1cxb9JEjhnx/6gma+2eVoZGCjXEbQM7BiuIhR2j7
-o+WtswGqimFe7LbvDrEJC20jOwNggH8BjoJyBNPfVaxH3ktMvFMAyp31kx9croZJ
-DbrcCoLd4CvWnobTHL6xjwdWlFO7qn4a6mo8RHSH0/KyojT4hAIEDbp5dRcUklRO
-eMMVm0ZmIo3HSRYdy5Jf+qZI4aCdY3GSxIcp/XaFCobWf9lnANw5LNhUC5cIGiRI
-IRHMdJuFqHaf/XINUdimA1mw2fmicypJ2ncrIIZR54iu++AthYRQfT01MPw/v159
-GSWU2JHJuIClglVYhPC/7ozuhTxGaI2jBr0te875dz0OadN7bYeFxA5hQmNmt8nH
-fbGtgVcdWzchXlVQTyQ0uAnx4wu1OiDsx2oqt42rkITf2L3n00pqAUm1IYW6nl2d
-ETzhj1N7ukvc5HcLxHxlXyJeeEOI0eSrUuAcLcsyYSy/wiVtw6UtSTFYQXKhE1SA
-LBBzph7hPA6/Rv1pJOapmChENMhECQ1CSJ5rTo7IRJjSWdfCIJV9EG6eDHGMmvye
-zDKKq/mzykuZB0PnuiyRKANWBJ5MhHC4rEkzCNLFJ5tIVT/NR4I=
-=LN/f
+do6hDw//fbvsYlCI9PO9PCcts5/3Yu9O7c5CyXAr9k5fx0AxYRHTiiZY3Dx6mA+c
+L3V1YcaC0x25jewroNON8hwcEWZZq9ukR1TGZ0Mu7GolfVTKK0/FAsb3viS4/qNp
+n6aQOOlWksHwKFv0gppdttIEE3JMIwM8SZyRtcnB+WeFPbo8WEVk3qMCFfuriI+/
+CtIJfwwODUfYCfy/SYC5x8tz1M7dWT2TJPFSve/7CSnOVB6kYDBXZhPVuXOpmcKH
+pUQLTT9ZJzONAVF0ut+T1X7aIAr+3MTtbjVRZ5xCfcF4KF0Jk1ngykG8lqQKlzRZ
+hJiNGqOmSY5IPDk/0TXuSx6trtiKImTLM7y98Pe/eI4+xLnU9ezrKPKdlNN0vQhl
+zE1yi9DXulZw8lutpuL4O8hg3Nxavjj2Jpk20xTTNUMnbeibrRL1J7HxYmONWW90
+LOjZD3rN+WII/uUG2MDnPEOusgu/dKV5QvQtY9ak33SLQuiPgBqZ2V86iyssLzvi
+duLdcy3JjGA4CQ9MyidINwUBtSOXKD7ssq+K4niP3LBUjsPFmm31ETBn4jnyVQrK
+IrLdNgydN2mNVwKHoc8jWXE/F/v03zolOA4HPp60NKz8V5v+VpGV1kcl9Q+CGZUJ
+5A18XIN1kup7boZ3J17tzC+sx8uWzV7GeU7kd4h8oJHAj/xre+k=
+=bHeF
 -----END PGP SIGNATURE-----
