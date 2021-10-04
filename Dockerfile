@@ -1,4 +1,4 @@
-FROM debian:buster@sha256:9b0a8c03b28d4fd2b57cc44e4a3d06b01d4237c8874015a1749837d517c38612 AS build
+FROM debian:buster@sha256:e5cfab8012b17d80f93a7f567797b0c8a2839069d4f50e499152162152518663 AS build
 
 RUN apt-get -q update && env DEBIAN_FRONTEND=noninteractive apt-get -qy install --no-install-recommends ruby ruby-dev build-essential zlib1g-dev git ca-certificates
 RUN gem install amber
