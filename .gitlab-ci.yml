@@ -9,12 +9,20 @@ stages:
 
 test:
   stage: test
-  image: debian:buster-slim
+  image: registry.git.autistici.org/ai3/docker/test/python:chromedriver
   services:
     - name: "${IMAGE_TAG}"
       alias: website
   variables:
     APACHE_PORT: 8080
     SITE_URL: "http://website:8080"
+    TOX_TESTENV_PASSENV: SITE_URL
   script:
-    - curl $SITE_URL
+    - cd render-test
+    - ulimit -c 0
+    - tox --skip-pkg-install
+  artifacts:
+    when: always
+    paths:
+      - render-test/screenshots/
+
