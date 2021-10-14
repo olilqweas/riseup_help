@@ -14,3 +14,5 @@ COPY docker/conf /tmp/conf
 COPY docker/build.sh /tmp/build.sh
 
 RUN /tmp/build.sh && rm /tmp/build.sh
+
+EXPOSE 8080/tcp

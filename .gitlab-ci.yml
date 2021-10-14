@@ -1,1 +1,20 @@
 include: 'https://code.revolt.org/riseup/tcp/containers/glue/raw/no-masters/.gitlab-ci.yml'
+
+# 'build' goes before 'test' because we test the container images
+# that we've just built.
+stages:
+  - build
+  - test
+  - release
+
+test:
+  stage: test
+  image: debian:buster-slim
+  services:
+    - name: "${IMAGE_TAG}"
+      alias: website
+  variables:
+    APACHE_PORT: 8080
+    SITE_URL: "http://website:8080"
+  script:
+    - curl $SITE_URL
