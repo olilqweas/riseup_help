@@ -1,29 +1,21 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "extends": [
-        "config:base",
-        ":disableDependencyDashboard"
-    ],
-    "enabledManagers": [
-        "dockerfile",
-        "regex"
-    ],
-    "regexManagers": [
-        {
-            "fileMatch": ["^Dockerfile$"],
-            "matchStringsStrategy": "any",
-            "matchStrings": [
-                "FROM registry.revolt.org/software/containers/(?<depName>.*?):(?<currentValue>.*?)@(?<currentDigest>sha256:[a-f0-9]+)s"
-            ],
-            "datasourceTemplate": "docker"
-        }
-    ],
+    "extends": ["config:base", ":disableDependencyDashboard"],
+    "enabledManagers": ["dockerfile"],
     "packageRules": [
         {
-            "datasources": ["docker"],
-            "labels": ["docker-update"],
-            "updateTypes": ["pin", "digest"],
-            "automerge": true
-        }
+        "labels": ["docker-autoupdate"],
+        "automerge": true,
+        "matchUpdateTypes": ["digest"],
+        "matchManagers": ["dockerfile"],
+        "packagePatterns": ["^registry\\.revolt\\.org"]
+        },
+        {
+        "labels": ["docker-update"],
+        "automerge": false,
+        "matchUpdateTypes": ["digest"],
+        "matchManagers": ["dockerfile"],
+        "excludePackagePatterns": ["^registry\\.revolt\\.org"]
+    }
     ]
 }
