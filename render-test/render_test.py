@@ -9,6 +9,7 @@ SCREENSHOTS = [
     ('/about-us', 'about.png'),
     ('/donate', 'donate.png'),
     ('/email', 'email.png'),
+    ('/canary', 'canary.png'),
 ]
 
 
