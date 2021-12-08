@@ -6,7 +6,7 @@ ADD . /src
 WORKDIR /src/amber
 RUN amber rebuild
 
-FROM registry.revolt.org/software/containers/apache2-base:no-masters@sha256:cb7284d70ab3e5288b1e12580aefcca5b87e8302576a32831ba99cc6afd8da9a
+FROM registry.revolt.org/software/containers/apache2-base:no-masters@sha256:fbf00cc66b8b7192974ba91ae3a41ba45b46a645c5227094b78007a8e67b4b8e
 
 COPY --from=build /src/public /var/www/riseup.net/public
 COPY provider.json /var/www/riseup.net
