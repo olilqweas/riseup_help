@@ -35,8 +35,8 @@ Tutte le decisioni finanziarie del **Collettivo Riseup** sono prese dai membri d
 Fai assegni o vaglia pagabili a "Riseup Networks" e spediscili al seguente indirizzo:
 
 	Riseup Networks
-	PO Box 4282
-	Seattle, WA 98194 USA
+	PO Box 3027
+	Lacey, WA 98509 USA
 
 Purtroppo, non abbiamo la manodopera per inviarti una lettera di ringraziamento quando riceviamo la tua donazione. Per favore, sappi che ti siamo incredibilmente grati: il tuo supporto è la nostra linfa vitale e rende tutto il nostro duro lavoro possibile. Noi ti vogliamo bene per il fatto che metti i tuoi soldi lì dove sono i tuoi valori! 
 
@@ -49,16 +49,6 @@ Purtroppo, non abbiamo la manodopera per inviarti una lettera di ringraziamento 
 ##  Donare criptovaluta
 
 <%= render :partial => 'inc/cryptocurrency_forms' %>
-
-##  Wire/Bank trasferimenti (EUR solo)
-
-Possiamo accettare bonifici bancari *solo in euro (EUR), non le altre valute* Si prega di inviare a.:
-
-	Recipient Name: Riseup Networks
-	IBAN: DE41 4306 0967 1126 8256 06
-	BIC: GENODEM1GLS
-	Banca: GLS Bank
-	Nazione: Germania
 
 ##  Domande Frequenti
 

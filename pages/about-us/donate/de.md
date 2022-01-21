@@ -34,10 +34,10 @@ Alle finanziellen Entscheidungen des *Riseup Kollektivs* werden im Konsensverfah
 Schicke Banknotenbündel, Schecks oder Zahlungsanweisungen (auszahlbar für *“Riseup Networks“*) an:
 
 	Riseup Networks
-	PO Box 4282
-	Seattle, WA 98194 USA
+	PO Box 3027
+	Lacey, WA 98509 USA
 
-*Bitte sende keine Schecks von außerhalb der USA, denn wir können sie nicht einlösen! Nutze aus Europa Bankeinzüge (siehe unten), oder schreib uns, um eine Adresse für nicht US-Schecks zu erhalten.*
+*Bitte sende keine Schecks von außerhalb der USA, denn wir können sie nicht einlösen!*
 
 Leider haben wir nicht die Kapazitäten, nach Erhalt Eurer Spende Dankesbriefe zu verschicken. Seid versichert, dass wir Euch [[unglaublich dankbar->thank-you]] sind: Eure Unterstützung hält uns am Leben und macht all unsere harte Arbeit erst möglich. Wir schätzen sehr, wenn Du Dein Geld für das ausgibst, was Dir wirklich wichtig ist!
 
@@ -50,16 +50,6 @@ Leider haben wir nicht die Kapazitäten, nach Erhalt Eurer Spende Dankesbriefe z
 ## Spende Kryptowährung
 
 <%= render :partial => 'inc/cryptocurrency_forms' %>
-
-## Banküberweisungen (nur EUR)
-
-Leider können wir nur Zahlungen *nur in Euros (EUR) annehmen*. "Warum?":#warum-akzeptiert-ihr-keine-%C3%9Cberweisungen-in-anderen-w%C3%A4hrungen
-
-	Empfängername: Riseup Networks
-	IBAN: DE41 4306 0967 1126 8256 06
-	BIC: GENODEM1GLS
-	Bank: GLS Bank
-	Land: Deutschland
 
 ## Häufig gestellte Fragen
 

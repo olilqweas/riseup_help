@@ -35,12 +35,12 @@ Todas as decisões financeiras do **Coletivo Riseup** são tomadas pelos membros
 Envie cheques e ordens de pagamento em nome de "Riseup Networks" para:
 
 	Riseup Networks
-	PO Box 4282
-	Seattle, WA 98194 USA
+	PO Box 3027
+	Lacey, WA 98509 USA
 
 Também aceitamos alegremente maços de notas amassadas. :)
 
-**ATENÇÃO: NÃO envie cheques de fora dos Estados Unidos! Não podemos depositá-los. Se você estiver na Europa, pode realizar uma transferência bancária (ver abaixo) ou [[entrar em contato conosco => contact]] para informarmos um endereço de correspondência europeu.**
+**ATENÇÃO: NÃO envie cheques de fora dos Estados Unidos! Não podemos depositá-los.**
 
 Infelizmente, não temos força de trabalho suficiente para te enviar uma carta de agradecimento quando recebemos sua doação. Por favor, saiba que nossa gratidão não tem tamanho: seu apoio é vital e faz que todo o nosso trabalho duro seja possível. Adoramos você por investir naquilo em que acredita! 
 
@@ -53,16 +53,6 @@ Infelizmente, não temos força de trabalho suficiente para te enviar uma carta 
 ## Doe com criptomoeda
 
 <%= render :partial => 'inc/cryptocurrency_forms' %>
-
-## Doe por transferência com IBAN
-
-Aceitamos transferências bancárias *apenas em euros (EUR), nenhuma outra moeda*. Por favor, transfira para:
-
-	Nome do recebedor:* Riseup Networks
-	IBAN: DE41 4306 0967 1126 8256 06
-	BIC: GENODEM1GLS
-	Banco: GLS Bank
-	País: Alemanha
 
 ## Perguntas frequentes
 
