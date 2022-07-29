@@ -1,15 +1,16 @@
 import os
 from urllib.request import urlopen
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+
 
 SCREENSHOTS_PATH = './screenshots'
 
 SCREENSHOTS = [
     ('/', 'home.png'),
-    ('/about-us', 'about.png'),
+    ('/about', 'about.png'),
     ('/donate', 'donate.png'),
-    ('/email', 'email.png'),
-    ('/canary', 'canary.png'),
+    ('/search?q=imap', 'search.png'),
 ]
 
 
@@ -45,7 +46,7 @@ def save_screenshot(driver, path):
     required_height = driver.execute_script('return document.body.parentNode.scrollHeight')
     driver.set_window_size(required_width, required_height)
     # driver.save_screenshot(path)  # has scrollbar
-    driver.find_element_by_tag_name('body').screenshot(path)  # avoids scrollbar
+    driver.find_element(By.TAG_NAME, 'body').screenshot(path)  # avoids scrollbar
     driver.set_window_size(original_size['width'], original_size['height'])
 
 
