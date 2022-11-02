@@ -9,6 +9,7 @@ SCREENSHOTS_PATH = './screenshots'
 SCREENSHOTS = [
     ('/', 'home.png'),
     ('/about', 'about.png'),
+    ('/canary', 'canary.png'),
     ('/donate', 'donate.png'),
     ('/search?q=imap', 'search.png'),
 ]
