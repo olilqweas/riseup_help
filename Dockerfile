@@ -1,4 +1,4 @@
-FROM registry.revolt.org/software/containers/base-images:bullseye@sha256:da9341df4c1098c06bc0264c1ee47c656b4cf574e49e7a94f624f65a42a7da06 AS build
+FROM registry.revolt.org/software/containers/base-images:bullseye@sha256:f5950a81f04bcb00518b885ef11a9af10036dbfccc10d2aa34d83a9942a118d6 AS build
 
 RUN apt-get -q update && env DEBIAN_FRONTEND=noninteractive apt-get -qy install --no-install-recommends ruby ruby-dev build-essential zlib1g-dev git ca-certificates
 RUN gem install amber
