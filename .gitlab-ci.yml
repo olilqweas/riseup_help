@@ -24,6 +24,7 @@ test:
     - tox --skip-pkg-install
   artifacts:
     when: always
+    expose_as: 'Screenshots'
     paths:
       - render-test/screenshots/
 
