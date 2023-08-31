@@ -10,7 +10,7 @@ stages:
 
 test:
   stage: test
-  image: registry.git.autistici.org/ai3/docker/test/python:chromedriver
+  image: registry.git.autistici.org/pipelines/images/test/python-chromedriver:master
   services:
     - name: "${IMAGE_TAG}"
       alias: website
