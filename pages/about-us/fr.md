@@ -24,128 +24,128 @@ Nous promouvons la propriété collective et le contrôle démocratique des info
 
 Nous encourageons les organisations et individuEs à utiliser la technologie dans les luttes pour leur libération. Nous travaillons pour soutenir chacunE à surmonter l'oppression systémique incorporée dans l'utilisation et le développement des technologies.
 
-##  Meet the Collective
+## Découvrez le collectif
 
 <div class="row">
 
 <p class="col-md-1"><img src="img/black-collared-jay.jpg" alt="black-collared-jay"></p>
 
-<p class="col-md-11"><strong>Black-collared Jay (Cyanolyca armillata)</strong><br>
-The black-collared jay has spent most of his life documenting the new generation of grassroot activism in pacific south america. He likes to learn new things, including computer related stuff, which is why he is able to help with riseup's tech work. The jay is known for being a rabbit friendly bird, skeptical about mobile design trends and for disliking to write names with capital letters. He avoids technologies that use jewelry names.
+<p class="col-md-11"><strong>Geai à collier (Cyanolyca armillata)</strong><br>
+Le geai à collier a passé la majeure partie de sa vie à documenter la nouvelle génération d'activistes de terrain dans l'amérique du sud occidentale. Il aime apprendre de nouvelles choses, y compris dans le domaine de l'informatique, c'est pourquoi il est en mesure de contribuer au travail technologique de riseup. Le geai est connu pour être un oiseau ami des lapins, sceptique quant aux tendances en matière de conception mobile et pour ne pas aimer écrire les noms en majuscule. Il évite les technologies utilisant des noms de bijoux.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/waxwing.jpg" alt="waxwing"></p>
 
-<p class="col-md-11"><strong>Cedar Waxwing (Bombycilla cedrorum)</strong><br>
-Waxwing is a revolutionary hacker and critic of late capitalism. Although deeply skeptical of technology, Waxwing has spent much of his life in a quixotic attempt to use technology for liberation. When not pecking away at the keyboard, Waxwing eats juniper berries, goes on long urban [-hikes-] flights, and plays with his adorable hatchlings.
+<p class="col-md-11"><strong>Jaseur d'Amérique (Bombycilla cedrorum)</strong><br>
+Le jaseur d'Amérique est un hacker révolutionnaire et critique du capitalisme tardif. Bien que profondément sceptique à l'égard de la technologie, le jaseur a passé une grande partie de sa vie à tenter, de manière idéaliste, de mettre la technologie au service de la libération. Lorsqu'il n'est pas en train de pianoter sur son clavier, le jaseur se nourrit de baies de genièvre, effectue de long vols [-randonnées-] et joue avec ses adorables petits.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/colibri.png" alt="colibri"></p>
 
-<p class="col-md-11"><strong>Colibrí Jacobina (Florisuga mellivora)</strong><br>
-Originally from the most dangerous neighborhoods of Santiago de Chile, Colibrí Jacobina has left her hometown in order to live a life without an address. A light blue strip crosses her well-maintained feathers and while she is dedicated to reading and writing in absolute tranquility, she doesn’t hesitate to use her abilities and radical spirit to fight rich people, men, meat eaters, fascists, monogamy, and the police. You can find her in Riseup forming alliances with other organizations and arguing eloquently that autonomous infrastructure is the only thing that is going to save us from this neoliberal and hyper-surveilled internet that we inhabit.
+<p class="col-md-11"><strong>Colibri Jacobin (Florisuga mellivora)</strong><br>
+Originaire des quartiers les plus dangereux de Santiago de Chile, le colibri jacobin a quitté sa ville natale pour vivre une vie sans adresse. Une bande bleu clair traverse ses plumes bien entretenues et si elle se consacre à la lecture et à l'écriture dans une tranquillité absolue, elle n'hésite pas à utiliser ses capacités et son esprit radical pour lutter contre les riches, les hommes, les mangeurs de viande, les fascistes, la monogamie, et la police. Vous la trouverez sur Riseup en train de former des alliances avec d'autres organisations et défendre avec éloquence l'idée qu'une infrastructure autonome est la seule chose qui nous sauvera de cet internet néolibéral et hyper-surveillé dans lequel nous habitons.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/blue-tit.jpg" alt="blue-tit"></p>
 
-<p class="col-md-11"><strong>Eurasian Blue Tit (Cyanistes caeruleus)</strong><br>
-The Eurasian Blue Tit is easily recognizable by its blue plumage, but various authorities dispute their scientific classification. While studying, it traveled through Europe to counter summits, social forums and the like. After university it was looking for a communal roosting in the web. So it started to work on we.riseup.net. A few years ago it stopped migrating and now nests in a small town commune.
+<p class="col-md-11"><strong>Mésange bleue (Cyanistes caeruleus)</strong><br>
+La mésange bleue est facilement reconnaissable à son plumage bleu, mais diverses autorités contestent sa classification scientifique. Pendant ses études, elle a parcouru l'Europe pour contrer les sommets, les forums sociaux et autres. Après l'université, elle a cherché un perchoir commun dans le web. Elle a donc commencé à travailler sur we.riseup.net. Il y a quelques années, elle a cessé de migrer et niche désormais dans une petite commune.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/roadrunner.jpg" alt="roadrunner"></p>
 
-<p class="col-md-11"><strong>Greater Roadrunner (Geococcyx californianus)</strong><br>
-Roadrunner is a long-legged, ground foraging bird in the cuckoo family. Originally indigenous to the North American Southwest, this specimen is currently enjoying being out of the desert and soaking up the moisture of Cascadia. He spends his days as an anarchist hacker, Debian developer, and dad. Around Riseup headquarters, it is commonly known that Roadrunner is a beast with hardware.
+<p class="col-md-11"><strong>Grand Géocoucou (Geococcyx californianus)</strong><br>
+Le grand géocoucou est un oiseau de la famille des coucous, à longues pattes et cherchant sa nourriture au sol. Originaire du sud-ouest de l'Amérique du Nord, ce spécimen apprécie actuellement d'être hors du désert et de s'imprégner de l'humidité de la Cascadia. Il passe ses journées en tant que hacker anarchiste, développeur de Debian, et papa. Au siège de Riseup, il est de notoriété publique que le géocoucou est un monstre concernant le matériel informatique.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/pigeon.png" alt="pigeon"></p>
 
-<p class="col-md-11"><strong>Feral Rock Pigeon (Columba livia)</strong><br>
-Pigeon has been pecking along the sidelines of the Riseup collective since the beginning, and finally joined Riseup a couple of years ago. She is not a geek, but finds them strangely fascinating. When not working on the newsletter or approving lists and emails, she is a social worker, a young adult scifi writer, and an egalitarian community enthusiast. She believes the future is unwritten, and everyday we write the book.
+<p class="col-md-11"><strong>Pigeon biset (Columba livia)</strong><br>
+La pigeonne s'est tenue à l'écart du collectif Riseup depuis le début, et a finalement rejoint Riseup il y a quelques années. Elle n'est pas une geek, mais trouve cela étrangement fascinant. Lorsqu'elle ne travaille pas sur la lettre d'information ou n'approuve pas des listes et emails, elle est travailleuse sociale, une écrivaine de science-fiction pour jeunes adultes, et une passionnée de communauté égalitaire. Elle pense que l'avenir n'est pas écrit, et que c'est chaque jour que nous écrivons le livre.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/rook.png" alt="rook"></p>
 
-<p class="col-md-11"><strong>Rook (Corvus frugilegus)</strong><br>
-Rook stands in the corner, and works on a strong defense.  Although Rook's home is typically [[eurasia => https://en.wikipedia.org/wiki/Rook_(bird)#Distribution_and_habitat]], Rook has mostly lived in the Pacific Northwest, although there were several periods of time spent home working.  Rook helps make tools that other birds use to hack at the intersections of kyriarchy, from "cissexism":https://en.wikipedia.org/wiki/Cissexism and heterosexism to racism, in the world at large and within the social justice movement itself. Rooks [[voice => https://en.wikipedia.org/wiki/Rook_(bird)#Voice]] often seems harsh to many, and so tends not to speak up much. Rook likes to eat fresh veggies, so grows many.
+<p class="col-md-11"><strong>Corbeau freux (Corvus frugilegus)</strong><br>
+Le corbeau freux se tient dans un coin, et travaille sur une solide défense. Bien que la maison du corbeau freux soit [[l'Eurasie => https://fr.wikipedia.org/wiki/Corbeau_freux#R%C3%A9partition]], le corbeau freux a principalement vécu dans le nord-ouest du Pacifique, même s'il y a eu plusieurs périodes de travail à domicile. Le corbeau aide à fabriquer des outils que d'autres oiseaux utilisent pour pirater les intersections de la kyriarchie, du [["cissexisme" => https://fr.wikipedia.org/wiki/Cissexisme]] et l'hétérosexisme au racisme, dans le monde en général et au sein du mouvement pour la justice sociale lui-même. La [[voix => https://fr.wikipedia.org/wiki/Corbeau_freux#Le_croassement]] du corbeau semble souvent dure pour beaucoup, c'est pourquoi il s'exprime peu. Le corbeau freux aime manger des légumes frais, il en cultive donc beaucoup.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/owl.jpg" alt="owl"></p>
 
-<p class="col-md-11"><strong>Snow Owl (Bubo scandiacus)</strong><br>
-The Snow Owl sits perched high on an icy branch, peering from afar at the insides of Riseup machines to find little bugs to snack on. He helped start Riseup when living in Seattle because he was dismayed by all the activists who showed up to shut down the WTO with their hotmail and yahoo accounts. He works hard keeping Riseup servers running, the network fast, and the spam from polluting your inbox. His other activities include reading and writing books, and winning strange and puzzling awards. He helped build the technical infrastructure for Indymedia, and currently contributes by maintaining some small pieces. Snow Owl is also one of the nicest people on the planet.
+<p class="col-md-11"><strong>Harfang des neiges (Bubo scandiacus)</strong><br>
+Le harfang des neiges est perché sur une branche glacée, regardant de loin l'intérieur des machines Riseup pour trouver de petits bogues à grignoter. Il a participé à la création de Riseup lorsqu'il vivait à Seattle, parce qu'il a été consterné par tous les activistes qui se sont présentés pour interrompre la conférence de l'OMC, avec leurs comptes hotmail et yahoo. Il travaille dur pour garder les serveurs de Riseup en marche, le réseau rapide, et empêcher les pourriels de polluer votre boîte de réception. Ses autres activités comprennent la lecture et l'écriture de livres, et le gain de prix étranges et déroutants. Il a participé à la mise en place de l'infrastructure technique d'Indymedia, et contribue actuellement en maintenant quelques petites parties. Le harfang des neiges est aussi l'une des personnes les plus sympathiques de la planète.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/sunbird.jpg" alt="sunbird"></p>
 
-<p class="col-md-11"><strong>Sunbird (Nectarinia asiatica)</strong><br>
-Sunbird has called the Pacific Northwest home since 1998, but took a hiatus from the United States for two years, living abroad in Lahore, Pakistan where he studied Urdu and volunteered for the Human Rights Commission of Pakistan. For his day job, he is a legal worker focused on protecting the rights of immigrants and refugees. Sunbird also has a strong interest in internet law as it relates to privacy and freedom of expression. He joined the Riseup collective because it is essential for activists to have communication tools that we can trust. You may find Sunbird on IRC, answering your help tickets, struggling to learn Debian and dreaming about a future free of AOL. Sunbird's gpg key ID is @0xD45523676ED610B7@, available from your local keyserver.
+<p class="col-md-11"><strong>Souimanga asiatique (Nectarinia asiatica)</strong><br>
+Le souimanga a élu domicile dans le nord-ouest du Pacifique depuis 1998, mais s'est absenté des États-Unis pendant deux ans, vivant à l'étranger à Lahore, au Pakistan, où il a étudié l'ourdou et travaillé bénévolement pour la Commission des droits humains. Pour son travail de jour, il est juriste et se consacre à la protection des droits des immigrés et des réfugiés. Le souimanga s'intéresse également de près au droit de l'internet dans la mesure où il est lié à la vie privée et à la liberté d'expression. Il a rejoint le collectif Riseup parce qu'il est essentiel pour les militants de disposer d'outils de communication dignes de confiance. Vous pouvez trouver le souimanga sur IRC, répondant à vos tickets d'assistance, s'efforçant d'apprendre Debian et rêvant d'un avenir sans AOL. L'ID de la clé gpg du souimanga est @0xD45523676ED610B7@, disponible sur votre serveur de clés local.
 
 </div>
 
-## Alumni
+## Anciens
 
 <div class="row">
 
 <p class="col-md-1"><img src="img/macaw.jpg" alt="macaw"></p>
 
-<p class="col-md-11"><strong>Arara (Ara macao)</strong><br>
-Arara is a young geek from Southern America. His interests range from applied math, computing theory, programming, free software and hacking in general to collaboration, virtual and real self-managed communities, politics, economy, social movements, anarchist theory and how the hell we are going to get the world out of this shithole it is in right now.
+<p class="col-md-11"><strong>Ara rouge (Ara macao)</strong><br>
+L'ara rouge est un jeune geek originaire d'Amérique du Sud. Il s'intéresse aux maths appliquées, à la théorie informatique, à la programmation, aux logiciels libre et au piratage en général, ainsi qu'à la collaboration, aux communautés virtuelles et réelles autogérées, à la politique, à l'économie, aux mouvements sociaux, à la théorie anarchiste et comment diable nous allons sortir le monde de ce trou à rats dans lequel on se trouve actuellement.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/booby.jpg" alt="booby"></p>
 
-<p class="col-md-11"><strong>Blue-footed Booby (Sula nebouxii)</strong><br>
-Blue-footed booby loves fermented foods and anarchist action movies from Germany.  In recent years, he has learned applied statistics on the mean streets of Seattle, and now he is making important calculations of when precisely the riseup list server will explode.
+<p class="col-md-11"><strong>Fou à pieds bleus (Sula nebouxii)</strong><br>
+Le fou à pieds bleus adore les aliments fermentés et les films d'action anarchistes allemands. Ces dernières années, il a appris les statistiques appliquées dans les petites rues de Seattle, et à présent il fait des calculs importants pour déterminer précisément quand les serveurs de liste riseup vont exploser.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/catbird.png" alt="catbird"></p>
 
-<p class="col-md-11"><strong>Catbird (Dumetella carolinensis, small bird of the thornbushes)</strong><br>
-Catbird perches behind foliage, singing the day away. Catbird likes to sing to GNU/Linux servers, mostly in Perl or Ruby. Catbird enjoys challenging gender stereotypes and is not afraid to invite some feminine energy into tech work.
+<p class="col-md-11"><strong>Moqueur chat (Dumetella carolinensis, petit oiseau des buissons)</strong><br>
+Le moqueur chat se perche derrière les feuillages, chantant toute la journée. Le moqueur chat aime chanter pour les serveurs GNU/Linux, le plus souvent en Perl ou Ruby. Le moqueur chat aime remettre en question les stéréotypes de genre et n'a pas peut d'intégrer l'énergie féminine dans le travail technique.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/petrel.jpg" alt="petrel"></p>
 
-<p class="col-md-11"><strong>Gadfly Petrel (Pterodroma)</strong><br>
-Gadfly Petrel works to bring about communications policies and systems that are based on human needs not corporate profits. She thinks that there is no technical solution but that technology can be useful if used in moderation. Though a seabird, she has migrated inland to study and teach journalism and communications, hopefully inspiring new generations of gadflies. Other interests include cooperative living, urban gardening and Captain Beefheart. She's also a firm believer in mutual aid and loves jokes about pirates.
+<p class="col-md-11"><strong>Pétrel (Pterodroma)</strong><br>
+La pétrelle travaille à la mise en place de politiques et de systèmes de communication basés sur les besoins humains et non sur les profits des entreprises. Elle pense qu'il n'y pas de solution technique mais que cette technologie peut être utile si elle est utilisée de façon modérée. Bien qu'il s'agisse d'une oiselle marine, elle a migré vers l'intérieur des terres pour étudier et enseigner le journalisme et la communication, avec l'espoir d'inspirer de nouvelles générations de pétrels. Ses autres centres d'intérêt sont la vie en colocation, le jardinage urbain et Captain Beefheart. Elle croit aussi fermement à l'entraide et adore les blagues sur les pirates.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/starling.png" alt="starling"></p>
 
-<p class="col-md-11"><strong>Starling (Sturnus Vulgaris)</strong><br>
-Starling is a migratory bird with stars on his wings and a feisty cry. He works on developing Riseup software and keeping people accountable and on task. Starling is interested in building movement infrastructure, tactics, and strategies for the long-haul. Starling is equally comfortable plucking eyeballs from skulls as defecating from on high.
+<p class="col-md-11"><strong>Étourneau sansonnet (Sturnus Vulgaris)</strong><br>
+L'étourneau sansonnet est un oiseau migrateur avec des étoiles sur ses ailes et un cri de révolte. Il travaille au développement du logiciel Riseup et veille à ce que les personnes soient responsables et respectent les tâches à accomplir. L'étourneau s'intéresse à la mise en place d'une infrastructure de mouvement, des tactiques, et des stratégies pour le long terme. L'étourneau est aussi à l'aise pour arracher les globes oculaires des crânes que pour déféquer en hauteur.
 
 </div>
 <div class="row">
 
 <p class="col-md-1"><img src="img/puffin.jpg" alt="puffin"></p>
 
-<p class="col-md-11"><strong>Tufted Puffin (Fratercula cirrhata)</strong><br>
-Tufted Puffin is medium sized sea bird and a member of the Riseup collective. She nests in Seattle, which is pretty far south for a tufted puffin. Tufted Puffin spends much of her time in front of a computer, using flashy interfaces like pine, but she likes to go outside too. She gets around by biking or swimming with wings which have adapted to offer her a flying technique while underwater. Tufted Puffin appreciates learning tech skills from Riseup and other radical tech projects and, more importantly, helping to build alternative infrastructures.
+<p class="col-md-11"><strong>Macareux huppé (Fratercula cirrhata)</strong><br>
+La macareuse huppée est un oiseau marin de taille moyenne et un membre du collectif Riseup. Elle niche à Seattle, ce qui est plutôt loin pour une macareuse. La macareuse huppée passe une grande partie de son temps devant un ordinateur, utilisant des interfaces tapes-à-l’œil comme pine, mais elle aime aussi aller dehors. Elle se déplace à vélo ou en nageant grâce à des ailes qui se sont adaptées pour lui permettre de voler sous l'eau. La macareuse huppée apprécie acquérir des compétences techniques grâce à Riseup et à d'autres projets technologiques radicaux et, plus important encore, contribuer à la mise en place d'infrastructures alternatives.
 
 </div>
