@@ -32,7 +32,6 @@ Q: Why does the new Canary not mention gag orders, FISA court orders, National S
 A: Our initial Canary strategy was only harming users by freaking them out unnecessarily when minor events happened. A Canary is supposed to signal important risk information to users, but there is also danger in signaling the wrong thing to users or leading to general fear and confusion for no good reason. The current Canary is limited to significant events that could compromise the security of Riseup users.
 
 0. https://riseup.net/about-us/press/canary-statement
-<<<<<<< HEAD
 1. https://www.motherjones.com/politics/2024/11/trump-attack-media-news-lawsuit-fox-news-journalists-first-amendment/
 
 -----BEGIN PGP SIGNATURE-----
@@ -51,23 +50,4 @@ rHgwbn6fxnsrY6KV3nYh5yIN1buhweKx08Ynj9LNxKNWKTfX2VjkoHWE0FgUNeES
 Slnxw9Ssgn1EU4hbub07iCiXrdiWUaqH1mHKWkjOSxWZggm02+grUMjTCmsTXHPA
 8cYWuEELDDL7DFcKXg==
 =Hf6b
-=======
-1. https://www.motherjones.com/environment/2024/07/bp-oil-shareholder-windfall-profits-earnings-expansion/
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEETgeRJo98Z+q+iPGwMEPitxOado4FAmaquDgACgkQMEPitxOa
-do4iaBAAgyDAwSVSJB3dVt9ueWfWeUuWPXBrU48Ry3jKF8uZ18fLPG/LcrAHKsjA
-E9qANZLz76RO5Mzfkc/ljV66zUZYLMyPEEsrnkeqEi5+9cBxAgg2b7gTaFU3JoWO
-XCExRqpfb2bTK23yFKvaThrph16USFx2c5Zsh46OxBeR4OPiBSGJIsDCrOkHsLpO
-E/wZu/vX6Ys9qizc5FWhlQ93oSdIy9klu7UH5B3BNrJbrIQTlW0ylfp43ebaIX/b
-q0M0Y1qwzc/TD3b4nQeqxEPqqEFxV02ay1he62Gd/2F1ocQWNcWV0zVSBFVcAGKs
-ykUaIro2Xx+0OV/ePWCZAOFPG6yuVfGZPM8efYyhqor0NcBsPbvUlQBtBbhyKcDE
-nrmWGh5t6JhMfmfaUT5s4pCdQ158SgrQyv9B6/WpgBnxcgXOBPKvMxYbQ6QjjIEU
-0q0kKr3GHfRe1XSyw8pa2SP/KWVEnW8UbfE/+AfqAzSBNdT25WGEeiXWWR25AA7d
-pMwQrPyvaWrw9Djo34DU+z/k+LNMG2pUUwojotMCsL4mBcXVJ1RrWqlLmAOTSNtv
-X5z5W3ib8bZEW7JR/l8Hd9VOZA1UVs/1zkuxJMRLCzwdFsrgeX4NYT7RFSGYHuhF
-mRB3dc9ldmaj7dnjUJ0fi6adRC3q2IhUeWkeFbkBE+dUIglD0uI=
-=s0k+
->>>>>>> refs/remotes/origin/no-masters
 -----END PGP SIGNATURE-----
