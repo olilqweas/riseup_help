@@ -32,6 +32,26 @@ Q: Why does the new Canary not mention gag orders, FISA court orders, National S
 A: Our initial Canary strategy was only harming users by freaking them out unnecessarily when minor events happened. A Canary is supposed to signal important risk information to users, but there is also danger in signaling the wrong thing to users or leading to general fear and confusion for no good reason. The current Canary is limited to significant events that could compromise the security of Riseup users.
 
 0. https://riseup.net/about-us/press/canary-statement
+<<<<<<< HEAD
+1. https://www.motherjones.com/politics/2024/11/trump-attack-media-news-lawsuit-fox-news-journalists-first-amendment/
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEETgeRJo98Z+q+iPGwMEPitxOado4FAmcmci8WHGNvbGxlY3Rp
+dmVAcmlzZXVwLm5ldAAKCRAwQ+K3E5p2juBSD/4uNX1v+5Y3twhYaibZDnC3mdX8
+C7EJxFXQ4q2eBp9G8fdT3EVbUzsBWiCjOnfWKItLEEOxdZIEW+3FiJP9u+aGpVSK
+BxoIWObPGKxtysp38WJaG/EWeoH/6ntHwDldwcvcxHPKk0K4tsaBAEFc8YPWVMnG
+pqt/KWtoRBEIymgEf9Zf+q6sTgHilOFGakGgyleq6iZzIRJ2F7XttUNngl2Gk2ca
+v2it+u10tHDS1/hX0gWluEMR360+6jOur8xEm4YH1mDx6qMEQfg+pUDZZw9uO0Jj
+jvPlZDdwC/E8K3RpjL8TsHGsoxeJwihcIjpWUqwMlM03en/UwCwaJtGYZl6Czk1t
+eKq6+bvEtly0Qgx2Etv2OQxOk9i6OqB854VvGxmHHP1lfg/41q129g6KVEI3ztYm
+tFbj15qn0u1r+Hsv+Zc62uef2epjsA1LglqXsXQVNNTdejarNIaRUPExvTBTH+dJ
+aYtuExTSfn5fDFucRJ/4bRrH4wU3BgsIp8ZUIrrezGZQ7MwqAdOlQIiw0YqUBpIQ
+rHgwbn6fxnsrY6KV3nYh5yIN1buhweKx08Ynj9LNxKNWKTfX2VjkoHWE0FgUNeES
+Slnxw9Ssgn1EU4hbub07iCiXrdiWUaqH1mHKWkjOSxWZggm02+grUMjTCmsTXHPA
+8cYWuEELDDL7DFcKXg==
+=Hf6b
+=======
 1. https://www.motherjones.com/environment/2024/07/bp-oil-shareholder-windfall-profits-earnings-expansion/
 
 -----BEGIN PGP SIGNATURE-----
@@ -49,4 +69,5 @@ pMwQrPyvaWrw9Djo34DU+z/k+LNMG2pUUwojotMCsL4mBcXVJ1RrWqlLmAOTSNtv
 X5z5W3ib8bZEW7JR/l8Hd9VOZA1UVs/1zkuxJMRLCzwdFsrgeX4NYT7RFSGYHuhF
 mRB3dc9ldmaj7dnjUJ0fi6adRC3q2IhUeWkeFbkBE+dUIglD0uI=
 =s0k+
+>>>>>>> refs/remotes/origin/no-masters
 -----END PGP SIGNATURE-----

@@ -1,0 +1,11 @@
+@title = 'Januar'
+
+
+Riseup-Listen umkreisen die Welt mit Deiner Unterstützung!
+----------------------------------------------------------
+
+Riseup beherbergt über siebzehntausend Mailinglisten für über 3,5 Millionen Menschen, die sich weltweit organisieren. Unsere Listen dienen vielen verschiedenen Zwecken: sie helfen beim Kampf gegen Unterdrückung, bei der Koordinierung von Wohn- und Hausgemeinschaften oder Kulturzentren, sie sind unersetzlich, um Proteste, Teach-Ins und andere Veranstaltungen anzukündigen, sie fördern den Dialog über aktuelle Themen, Aktionswege oder politische Debatten, und sie helfen dabei, das nächste große Manifest zu verfassen oder auch einen Newsletter wie den, den du gerade liest. Im Gegensatz zu vielen anderen Anbietern sammeln wir keine Daten, verlangen keine Gebühren und verstopfen Dein Gehirn nicht mit Werbung.
+
+Als wir damit anfingen, Mailinglisten zur Verfügung zu stellen, gab es noch viele andere kostenlose Anbieter. Die Listen sind schwierig zu erstellen und erfordern viel Pflege, so dass im Laufe der Zeit viele der kostenlosen Dienste eingestellt wurden. Die Bezahldienste, die ihren Platz eingenommen haben, sind für die Bewegungen, die wir unterstützen, oft unerschwinglich. Wir arbeiten ständig an der Verbesserung unserer Listen, bieten Support für die Benutzer und reparieren technische Probleme. Wenn unsere Nutzer gezwungen wären, für diesen Dienst zu bezahlen, würde viel Geld von den sozialen Bewegungen auf der ganzen Welt in die Taschen gieriger Kapitalisten fließen.
+
+Wir brauchen Deine Hilfe, um unsere Mailinglisten am Laufen zu halten. Wir haben viel Liebe, Blut, Schweiß und Tränen in diesen Dienst gesteckt, damit Du und andere ihn auf der ganzen Welt ihn nutzen können, um sich zu organisieren. Dies ist die Infrastruktur der Bewegung. Sie gehört uns wir müssen sie pflegen. Lasst uns dafür sorgen, dass sie weiterhin autonom bleibt! Kannst Du einen finanziellen Beitrag zur Unterstützung leisten? Wenn ja, dann schau doch bitte auf der Seite https://riseup.net/de/spenden vorbei. Eine Spende für die Mailinglisten ist eine große Hilfe, jeder noch so kleine Beitrag treibt uns an, mit unserer Arbeit und Ausrüstung, um Tausende von Bewegungen auf der ganzen Welt aktiv und lebendig zu halten - und gleichzeitig Geld und Daten von den Internetkonzernen fernzuhalten.
