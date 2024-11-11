@@ -1,0 +1,21 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": ["config:base", ":disableDependencyDashboard"],
+    "enabledManagers": ["dockerfile"],
+    "packageRules": [
+        {
+        "labels": ["docker-autoupdate"],
+        "automerge": true,
+        "matchUpdateTypes": ["digest"],
+        "matchManagers": ["dockerfile"],
+        "packagePatterns": ["^registry\\.revolt\\.org"]
+        },
+        {
+        "labels": ["docker-update"],
+        "automerge": false,
+        "matchUpdateTypes": ["digest"],
+        "matchManagers": ["dockerfile"],
+        "excludePackagePatterns": ["^registry\\.revolt\\.org"]
+    }
+    ]
+}
